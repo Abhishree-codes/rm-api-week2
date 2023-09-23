@@ -53,6 +53,14 @@
         "price":300,
         "description":"red and gold lehenga for women",
         "category":"lehenga"
+      },{
+        "id":7,
+        "name":"Pastel Jacket",
+        "image":"https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8amFja2V0c3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "gender":"female",
+        "price":900,
+        "description":"Pastel peach comfy Jacket",
+        "category":"jackets"
       }
     ]
   }
