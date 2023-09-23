@@ -1,64 +1,58 @@
 {
-    "users": [
+    "products": [
       {
         "id": 1,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com"
+        "name": "Pink Shirt",
+        "image": "data:image/jpeg;base64,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",
+        "gender": "male",
+        "price":200,
+        "description":"a pink shirt for men",
+        "category":"shirts"
       },
       {
         "id": 2,
-        "name": "Gail Newbatt",
-        "age": 53,
-        "email": "gnewbatt1@un.org"
+        "name": "White Shirt",
+        "image": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2hpcnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
+        "gender": "male",
+        "price":700,
+        "description":"a white shirt for men",
+        "category":"shirts"
       },
       {
         "id": 3,
-        "name": "Walliw Wilstead",
-        "age": 49,
-        "email": "wwilstead2@tripadvisor.com"
+        "name": "Faded Jeans",
+        "image": "https://images.unsplash.com/photo-1602293589930-45aad59ba3ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8amVhbnN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
+        "gender": "male",
+        "price":500,
+        "description":"faded jeans shirt for men",
+        "category":"jeans"
       },
       {
         "id": 4,
-        "name": "Abran Proback",
-        "age": 29,
-        "email": "aproback3@theglobeandmail.com"
+        "name": "White Kurti",
+        "image": "https://images.unsplash.com/photo-1667665970124-2273c6ef3489?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGt1cnRpfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+        "gender": "female",
+        "price":100,
+        "description":"white kurti for women",
+        "category":"kurti"
       },
       {
         "id": 5,
-        "name": "Roda Chappelow",
-        "age": 31,
-        "email": "rchappelow4@oaic.gov.au"
+        "name": "Red Saree",
+        "image": "https://images.unsplash.com/photo-1616756141603-6d37d5cde2a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHNhcmVlfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+        "gender": "female",
+        "price":1000,
+        "description":"red and gold saree for women",
+        "category":"saree"
       },
       {
         "id": 6,
-        "name": "Karney Wylie",
-        "age": 22,
-        "email": "kwylie5@miitbeian.gov.cn"
-      },
-      {
-        "id": 7,
-        "name": "Cammi Pimbley",
-        "age": 63,
-        "email": "cpimbley6@nyu.edu"
-      },
-      {
-        "id": 8,
-        "name": "Gavra Manning",
-        "age": 43,
-        "email": "gmanning7@lycos.com"
-      },
-      {
-        "id": 9,
-        "name": "Zachary Seward",
-        "age": 45,
-        "email": "zseward8@oracle.com"
-      },
-      {
-        "id": 10,
-        "name": "Chucho Norssister",
-        "age": 20,
-        "email": "cnorssister9@mayoclinic.com"
+        "name": "Red Lehenga",
+        "image": "https://images.unsplash.com/photo-1668371679302-a8ec781e876e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGxlaGVuZ2F8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
+        "gender": "female",
+        "price":300,
+        "description":"red and gold lehenga for women",
+        "category":"lehenga"
       }
     ]
   }
